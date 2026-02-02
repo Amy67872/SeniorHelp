@@ -8,7 +8,7 @@ The app was built to address common challenges faced by elderly users, such as n
 ## Key Features
 - **Fall Detection Logic**: Identifies potential falls and triggers appropriate responses
 - **Emergency Calling**: Enables quick access to emergency contacts
-- **Simplified Directions**: Provides easy access to frequently visited locations
+- **Simplified Directions**: Provides easy access to frequently visited locations without having to type it in
 - **Medication Reminders**: Supports users in managing daily medication routines
 - **Accessible Interface**: Designed with clarity and ease of use in mind
 
@@ -25,7 +25,6 @@ The app was built to address common challenges faced by elderly users, such as n
 ## Tech Stack
 - React Native (Expo)
 - JavaScript / TypeScript
-- Firebase (if applicable)
 
 ## Notes
 This is a personal project developed to explore product-oriented engineering in a healthcare context, with an emphasis on reliability, user trust, and real-world usability.
